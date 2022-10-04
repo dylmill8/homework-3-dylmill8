@@ -3,7 +3,8 @@ Hello future self!
 
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
+'git fetch' checks the new information on the remote GitHub server so that you can compare it to your local files.
 
 Task 2:
 // Under this line, describe the difference between Git and GitHub
-
+GitHub is the remote central repository whereas Git is the local repository on your computer.
